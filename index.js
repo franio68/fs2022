@@ -86,6 +86,14 @@ const docentes = [
 		email: 'vladi@sunmmail.com',
 		password: 'vladiFuckYou4U,:*',
 	},
+	{
+		id: 6,
+		nombre: 'Lara',
+		apellidos: 'Sanz',
+		dni: '43.566.622-F',
+		email: 'laraz@sunmmail.com',
+		password: 'larili456',
+	},
 ];
 
 app.use(express.static('public'));
