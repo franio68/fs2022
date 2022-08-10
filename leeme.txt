@@ -2,5 +2,7 @@ Proyecto de página web para empresa de Samuel: 'CobroYA'
 Precio: 10000$
 
 1 - Decirle a nuestro git donde está el repositorio remoto
+    git remote add origin https://github.com/franio68/fs2022.git
 2 - Convertir (renombrar) nuestra rama de master a main
 3 - Subir nuestro repo a github
+    git push remoto local
